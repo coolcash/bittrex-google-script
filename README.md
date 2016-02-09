@@ -1,13 +1,15 @@
 # bittrex-google-script
 
-/*=====================================================================*
+  =====================================================================
+
   Bittrex API implementaion into Google spreadsheets
+
   =====================================================================
   Version:      0.1
   Project Page: https://github.com/coolcash/bittrex-google-script
   Copyright:    (c) 2016 by CoolCash
   License:      GNU General Public License, version 3 (GPL-3.0) 
-                http://www.opensource.org/licenses/gpl-3.0.html
+  http://www.opensource.org/licenses/gpl-3.0.html
   ---------------------------------------------------------------------
   A library for importing Bittrex API JSON feeds into Google spreadsheets. Functions include:
 
@@ -17,4 +19,4 @@
   
   ---------------------------------------------------------------------
   Requires ImportJSON Script from http://blog.fastfedora.com/projects/import-json
- *=====================================================================*/
+  =====================================================================
